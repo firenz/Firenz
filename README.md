@@ -42,13 +42,14 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 <br />
 
 ## 🌱 I’m currently learning ...
-<img align="left" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" /> Advanced React with Redux<br>
-<img align="left" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" /> UI/UX basics<br>
-<img align="left" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine<br>
+<img align="left" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" />Advanced React with Redux<br>
+<img align="left" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" />UI/UX basics<br>
+<img align="left" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" />Godot Engine<br>
 
 ## 📫 How to reach me
 
 [<img align="left" alt="Alicia G. | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />][email]
+[<img align="left" alt="Alicia G. | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="Alicia G. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alicia G. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alicia G. | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -56,6 +57,7 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 <br />
 
 [email]: alicia.guardenoalbertos@gmail.com
+[codepen]: https://codepen.io/firenz
 [twitter]: https://twitter.com/_firenz
 [instagram]: https://instagram.com/aliciaguardeno
 [linkedin]: https://linkedin.com/in/aliciaguardeno
