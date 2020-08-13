@@ -39,7 +39,6 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 <img align="left" alt="Bash" hint="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ## 🌱 I’m currently learning ...
 <img align="center" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" /> Advanced React with Redux<br>
