@@ -45,6 +45,8 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 <img align="center" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" /> UI/UX basics<br>
 <img align="center" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine<br>
 
+<br />
+
 ## 📫 How to reach me
 
 [<img align="left" alt="Alicia G. | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />][email]
