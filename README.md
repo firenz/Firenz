@@ -42,9 +42,9 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 <br />
 
 ## 🌱 I’m currently learning ...
-- <img align="left" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" /> Advanced React with Redux
-- <img align="left" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" /> UI/UX basics
-- <img align="left" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine
+<img align="left" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" /> Advanced React with Redux<br>
+<img align="left" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" /> UI/UX basics<br>
+<img align="left" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine<br>
 
 ## 📫 How to reach me
 
