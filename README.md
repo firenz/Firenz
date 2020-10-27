@@ -57,7 +57,7 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 
 <br />
 
-[email]: alicia.guardenoalbertos@gmail.com
+[email]: mailto:alicia.guardenoalbertos@gmail.com
 [codepen]: https://codepen.io/firenz
 [twitter]: https://twitter.com/_firenz
 [instagram]: https://instagram.com/aliciaguardeno
