@@ -26,7 +26,7 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 
 ## 🔧 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" hint="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VSCode" hint="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" hint="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" hint="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" hint="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -41,9 +41,10 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 <br />
 
 ## 🌱 I’m currently learning ...
+<img align="center" alt="Docker" width="20px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" /> Docker<br>
+<img align="center" alt="Kubernetes" width="20px" src="https://github.com/github/explore/blob/master/topics/kubernetes/kubernetes.png?raw=true" /> Kubernetes<br>
 <img align="center" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" /> Advanced React with Redux<br>
 <img align="center" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" /> UI/UX basics<br>
-<img align="center" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine (on pause right now)<br>
 
 <br />
 
