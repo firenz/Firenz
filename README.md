@@ -43,17 +43,14 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 ## 🌱 I’m currently learning ...
 <img align="center" alt="React Redux" width="20px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" /> Advanced React with Redux<br>
 <img align="center" alt="Figma" width="20px" src="https://github.com/github/explore/blob/master/topics/figma/figma.png?raw=true" /> UI/UX basics<br>
-<img align="center" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine<br>
+<img align="center" alt="Godot Engine" width="20px" src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" /> Godot Engine (on pause right now)<br>
 
 <br />
 
 ## 📫 How to reach me
 
-[<img align="left" alt="Alicia G. | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />][email]
 [<img align="left" alt="Alicia G. | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="Alicia G. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alicia G. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alicia G. | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
