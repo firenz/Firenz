@@ -70,7 +70,7 @@ A disabled software engineer 👩‍🦼 living in south Spain. ☀️ Now junio
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot&logoColor=white)
+![godot-engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
